@@ -3,3 +3,4 @@ openai
 streamlit
 pyowm
 google-api-python-client
+python-dotenv
