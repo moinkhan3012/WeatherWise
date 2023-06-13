@@ -82,7 +82,7 @@ def main():
   
 if __name__ == "__main__":
     st.set_page_config(
-        page_title=":Weather Wise",
+        page_title="Weather Wise",
         page_icon="robot_face",
         layout="wide")
     st.title(':red[Weather Wise]')
