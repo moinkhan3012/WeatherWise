@@ -91,7 +91,11 @@ def main():
 
   
 if __name__ == "__main__":
-    st.title(':red[LangChain Weather Predictor]')
+    st.set_page_config(
+        page_title=":red[Weather Wise]",
+        page_icon="robot_face",
+        layout="wide")
+    st.title(':red[Weather Wise]')
     main()
     
             
